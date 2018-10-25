@@ -1,2 +1,2 @@
 # AntaAlex.github.io
-[Текст ссылки](адрес "Описание")
+[Cardboard](AntaAlex.github.io/cardboard/index.html)

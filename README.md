@@ -1,2 +1,2 @@
 # AntaAlex.github.io
-[Cardboard](AntaAlex.github.io/cardboard/)
+[Cardboard](https://antaalex.github.io/cardboard/)
